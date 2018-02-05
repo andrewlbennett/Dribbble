@@ -1,2 +1,4 @@
-# dribbble
-A place to store full-sized images for Dribbble posts. Thanks Github for being free!
+### dribbble
+Full-sized resolution images for my Dribbble acount.
+
+[Dribbble](https://dribbble.com/helloandyb)
